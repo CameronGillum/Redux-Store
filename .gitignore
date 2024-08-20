@@ -1,3 +1,5 @@
 package-lock.json
 node_modules
-client
+client/public
+client/src
+client/index.html
